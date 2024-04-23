@@ -12,7 +12,6 @@ Olá, meu nome é Mateus Roberto Sachelaride e sou estudante de Engenharia de So
 Atualmente, estou desenvolvendo minhas habilidades em diversas tecnologias e áreas da TI. Aqui estão minhas principais áreas de interesse:
 
 - **Desenvolvimento Web**: Tenho estudado HTML, CSS, JavaScript, entre outras tecnologias para desenvolvimento web.
-- **Inteligência Artificial**: Tenho um grande interesse por Machine Learning e IA em geral, e tenho dedicado parte do meu tempo para aprender mais sobre estas áreas.
 
 ## Projetos
 
